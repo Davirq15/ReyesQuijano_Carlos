@@ -9,7 +9,6 @@ num2 = float(input("Ingrese el segundo número: "))
 (num1 == num2) and print("Ambos números son los mismos.")
 
 
-
 #if num1 > num2:	print("El primer número es mayor que el segundo número.")
 #elif num1 < num2:print("El primer número es menor que el segundo número.")
 #elif num1 == num2: print("Ambos números son los mismos.")
